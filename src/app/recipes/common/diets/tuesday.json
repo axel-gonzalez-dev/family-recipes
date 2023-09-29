@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "time": "Desayuno",
+      "ingredients": [
+        "Te o cafe sin azucar",
+        "1 yogurt descremado con fruta fresca",
+        "1 rebanada de pan integral",
+        "1 rebanada de jamon york"
+      ]
+    },
+    {
+      "time": "Media manana",
+      "ingredients": [
+        "Te o cafe sin azucar",
+        "2 galletas de avena"
+      ]
+    },
+    {
+      "time": "Comida",
+      "ingredients": [
+        "1 plato de caldo de verduras con 1 cucharada de salvado",
+        "1 plato chico de fideos con brocoli",
+        "1 bistec (100g) asado"
+      ]
+    },
+    {
+      "time": "Cena",
+      "ingredients": [
+        "1 plato chico de ejotes con 1 clara de huevo"
+      ]
+    },
+    {
+      "time": "Noche",
+      "ingredients": [
+        "1 gelatina light de leche descremada con tocitos de durazno fresco"
+      ]
+    }
+  ]
+}

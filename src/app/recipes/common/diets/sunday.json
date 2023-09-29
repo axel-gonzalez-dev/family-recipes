@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "time": "Desayuno",
+      "ingredients": [
+        "Te o cafe sin azucar",
+        "1 yogurt descremado con fruta fresca",
+        "1 rebanada de pan integral"
+      ]
+    },
+    {
+      "time": "Media manana",
+      "ingredients": [
+        "1 gelatina light"
+      ]
+    },
+    {
+      "time": "Comida",
+      "ingredients": [
+        " plato de sopa de calabaza",
+        "1 plato chico de chicharos cocidos con cebolla y jitomate cocinados al vapor",
+        "1 gelatina light con frutas frescas"
+      ]
+    },
+    {
+      "time": "Cena",
+      "ingredients": [
+        "1 plato de sopa de verduras",
+        "1 plato de carne magra deshebrada, guisada con salsa de jitomate",
+        "1 fruta de la estacion"
+      ]
+    },
+    {
+      "time": "Noche",
+      "ingredients": [
+        "1 gelatina ligh de leche descremada con trocitos de manzana golden"
+      ]
+    }
+  ]
+}

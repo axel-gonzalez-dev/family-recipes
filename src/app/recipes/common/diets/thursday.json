@@ -1,0 +1,41 @@
+{
+  "data": [
+    {
+      "time": "Desayuno",
+      "ingredients": [
+        "Te o cafe sin azucar",
+        "1 plato pequeno de cereal integral rico en fibra, sin azucar (All bran/All-Bran Flakes)",
+        "1 vaso (200ml) de leche descremada",
+        "1 plato con 300 g de melon"
+      ]
+    },
+    {
+      "time": "Media manana",
+      "ingredients": [
+        "Te o cafe sin azucar",
+        "2 galletas tipo Marias"
+      ]
+    },
+    {
+      "time": "Comida",
+      "ingredients": [
+        "1 plato de sopa de verduras",
+        "1 plato mediano de ceviche de pescado blanco sin catsup",
+        "1 plato de verduras"
+      ]
+    },
+    {
+      "time": "Cena",
+      "ingredients": [
+        "1 plato de ensalada de lechuga con pepino",
+        "1 plato chico de chicharos cocidos sin grasa con cebolla y jitomate cocinado al vapor"
+      ]
+    },
+    {
+      "time": "Noche",
+      "ingredients": [
+        "1 gelatina light preparada con 1 manzana goldren fresca en trocitos"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "data": [
+    {
+      "time": "Desayuno",
+      "ingredients": [
+        "Te o cafe sin azucar",
+        "1 vaso (200 ml) de leche descremada",
+        "1 rebanada de pan integral",
+        "1 rebanada fina de queso panela"
+      ]
+    },
+    {
+      "time": "Media manana",
+      "ingredients": [
+        "1 plato de pepino rebanado, con sal y jugo de limon"
+      ]
+    },
+    {
+      "time": "Comida",
+      "ingredients": [
+        "1 plato de sopa de verduras",
+        "1 filete de pescado (100g) a la plancha",
+        "1/2 plato de jitomate aderezado con oregano"
+      ]
+    },
+    {
+      "time": "Cena",
+      "ingredients": [
+        "1 plato verdura al vapor",
+        "10 ravioles pequenos de verdura",
+        "1 mandarina chica"
+      ]
+    },
+    {
+      "time": "Noche",
+      "ingredients": [
+        "1 vaso (200ml) de licuado de fresa con leche descremada, sin azucar"
+      ]
+    }
+  ]
+}

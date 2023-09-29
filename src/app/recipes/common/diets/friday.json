@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "time": "Desayuno",
+      "ingredients": [
+        "Te o cafe sin azucar",
+        "1 yogurt descremado con fruta fresca",
+        "1 rebanada de pan integral",
+        "1 rebanada de jamon u otro embutido"
+      ]
+    },
+    {
+      "time": "Media manana",
+      "ingredients": [
+        "1 gelatina light"
+      ]
+    },
+    {
+      "time": "Comida",
+      "ingredients": [
+        "1 plato de sopa de verduras",
+        "1 plato chico de arroz con col y carne",
+        "1 plato chico de germinado con alfalfa",
+        "1/2 manzana golden"
+      ]
+    },
+    {
+      "time": "Cena",
+      "ingredients": [
+        "1/2 jitomate",
+        "1 rebanada (100g) al lomo de magro a la plancha",
+        "1 papa cocida natural",
+        "1/2 pera"
+      ]
+    },
+    {
+      "time": "Noche",
+      "ingredients": [
+        "1 vaso (200ml) de leche descremada",
+        "3 galletas de avena o salvado"
+      ]
+    }
+  ]
+}
