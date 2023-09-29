@@ -1,2 +1,13 @@
+<div class="flex">
 
-<p>{{returnDiet()}}</p>
+  <div *ngFor="let food of mondayDiet"
+    class="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100">
+    <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900">{{food.time}}</h5>
+    <ul>
+      <li *ngFor="let ingredient of food.ingredients">
+        {{ingredient}}
+      </li>
+    </ul>
+  </div>
+
+</div>
