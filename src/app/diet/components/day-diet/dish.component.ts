@@ -1,19 +1,16 @@
-import { Component } from '@angular/core';
+import { Component, Input } from '@angular/core';
 import { Food } from '../../interfaces/diet.interfaces';
-
-import monday from '../../common/diets/monday.json';
 
 @Component({
   selector: 'diet-day',
-  templateUrl: './dish.component.html',
-  styleUrls: ['./dish.component.css']
+  templateUrl: './dish.component.html'
 })
 export class DishComponent {
 
-  public mondayDiet: Food[] = monday.data;
+  @Input('diet')
+  public diet: Food[] = [];
 
-  public returnDiet(): string {
-    return JSON.stringify(this.mondayDiet,);
-  }
+  @Input('day')
+  public day:string = "";
 
 }

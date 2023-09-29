@@ -3,18 +3,17 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { RecipesComponent } from './diet/recipes.component';
-import { DishComponent } from './diet/components/day-diet/dish.component';
+
+import { DietModule } from './diet/diet.module';
 
 @NgModule({
   declarations: [
     AppComponent,
-    RecipesComponent,
-    DishComponent
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    DietModule
   ],
   providers: [],
   bootstrap: [AppComponent]

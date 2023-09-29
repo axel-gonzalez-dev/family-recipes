@@ -1,6 +1,9 @@
-<div class="flex">
+<div class="grid grid-cols-resposive gap-4 mt-8">
 
-  <div *ngFor="let food of mondayDiet"
+  <h1>{{day}}</h1>
+  <h2>Hola</h2>
+
+  <div *ngFor="let food of diet"
     class="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100">
     <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900">{{food.time}}</h5>
     <ul>
